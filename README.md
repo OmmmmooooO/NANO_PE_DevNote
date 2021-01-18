@@ -1,8 +1,8 @@
 # Nano_PE_DevNote
 
 ## Deployment
-- [] trt_pose
-- [] BlazePose
+- [ ] trt_pose
+- [ ] BlazePose
 
 ## Post-process
 
